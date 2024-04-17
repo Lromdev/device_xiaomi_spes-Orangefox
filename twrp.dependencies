@@ -2,7 +2,7 @@
   {
     "remote": "github",
     "repository": "mi-sdm680/android_kernel_xiaomi_sm6225",
-    "target_path": "kernel/xiaomi/spes",
-    "revision": "spes-r-oss"
+    "target_path": "kernel/xiaomi/fog",
+    "revision": "fog-r-oss"
   }
 ]
